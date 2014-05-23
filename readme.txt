@@ -39,7 +39,7 @@ Now save requests via Saiku interface, these requests will be reloaded at next s
 
 
 For repositoryBean2, 'path' property indicates where to lookup requests to load on startup.
-Here it points in same repository as requests save via Saiku user interface, which is WEB-INF/classes/saiku-repository.
+Here it points in same repository as requests saved via Saiku user interface, which is WEB-INF/classes/saiku-repository.
 You see that this folder contains saved queries, as .saiku files.
 But you can specify another path, e.g  an absolute path on your os, and put saiku files on it. 
 Or a just a sub folder of WEB-INF/classes/saiku-repository. 
