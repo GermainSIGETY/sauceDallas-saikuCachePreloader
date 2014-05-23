@@ -3,7 +3,7 @@
 	<groupId>fr.saucedallas</groupId>
 	<artifactId>saikuCachePreloader</artifactId>
 	<packaging>jar</packaging>
-	<version>1.0-SNAPSHOT</version>
+	<version>1.0</version>
 	<name>saikuCachePreloader</name>
 	<url>https://github.com/GermainSIGETY/sauceDallas-saikuCachePreloader</url>
 	<properties>
