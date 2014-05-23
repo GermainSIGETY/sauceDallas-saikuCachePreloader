@@ -61,7 +61,8 @@
 	<!-- release and distribution stuff -->
 	<scm>
 		<url>https://github.com/GermainSIGETY/sauceDallas-saikuCachePreloader</url>
-		<connection>scm:git:git://github.com/GermainSIGETY/sauceDallas-saikuCachePreloader.git</connection>
+		<connection>
+		scm:git:ssh://git@github.com/GermainSIGETY/sauceDallas-saikuCachePreloader.git</connection>
 		<developerConnection>scm:git:git@github.com:GermainSIGETY/sauceDallas-saikuCachePreloader.git</developerConnection>
 	  <tag>1.0</tag>
   </scm>
